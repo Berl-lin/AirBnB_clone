@@ -5,6 +5,11 @@ With this project, we aim to deploy a simple copy of the AirBnB website to a ser
 - Sheriff Gaye: [Github](https://github.com/sheriff-gaye)
 - Christabell Owusu: [Github](https://github.com/Berl-lin)
 
+## The Final Product
+The final product should look like
+![Page1](https://drive.google.com/file/d/1qV3tBkeQjukRi8ycRc59BIXWbNT0REg_/view?usp=sharing)
+![Page2](https://drive.google.com/file/d/19XYkqPdbyMJyupY_Dwrpcq1CyNVl7UxA/view?usp=sharing)
+
 
 ## Resources
 - The Project Concepts: [AirBnB Clone](https://alx-intranet.hbtn.io/concepts/74) and [Python Packages](https://alx-intranet.hbtn.io/concepts/66)
@@ -97,9 +102,3 @@ e.g., For models/user.py, unit tests must be in: tests/test_models/test_user.py
 - All classes should have a documentation (python3 -c 'print(__import__("my_module").MyClass.__doc__)')
 - All functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)') 
 - Collaboration is encouraged on test cases, so that we don’t miss any edge case.
-
-## The Final Product
---------------
-The final product should look like this.
-![Page 1](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/fe2e3e7701dec72ce612472dab9bb55fe0e9f6d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220804T224946Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=965c6f6e6f8b2853dde523d129b4dc0386f7af9713855ee854cf67b09421ec28)
-![Page 2](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/da2584da58f1d99a72f0a4d8d22c1e485468f941.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220804%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220804T224946Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=baf67c292cc1688ec32a756c5aac1820b052e6a5565561f57b25b40bdb03e99c)
