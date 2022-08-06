@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 A module that contains the test suite for the BaseModel class

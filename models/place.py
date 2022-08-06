@@ -6,6 +6,7 @@ from models.base_model import BaseModel
 class Place(BaseModel):
     """
     Implements the Place model
+
     Args:
         city_id (str): The City id.
         user_id (str): The User id.
