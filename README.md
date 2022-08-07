@@ -6,7 +6,7 @@ With this project, we aim to deploy a simple copy of the AirBnB website to a ser
 - Christabell Owusu: [Github](https://github.com/Berl-lin)
 
 
-The
+
 ![Page1](https://drive.google.com/file/d/1qV3tBkeQjukRi8ycRc59BIXWbNT0REg_/view?usp=sharing)
 ![Page2](https://drive.google.com/file/d/19XYkqPdbyMJyupY_Dwrpcq1CyNVl7UxA/view?usp=sharing)
 
