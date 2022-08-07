@@ -8,7 +8,7 @@ With this project, we aim to deploy a simple copy of the AirBnB website to a ser
 
 
 
-![Page2](https://drive.google.com/file/d/19XYkqPdbyMJyupY_Dwrpcq1CyNVl7UxA/view?usp=sharing)
+https://drive.google.com/file/d/19XYkqPdbyMJyupY_Dwrpcq1CyNVl7UxA/view?usp=sharing)
 
 
 ## Resources
