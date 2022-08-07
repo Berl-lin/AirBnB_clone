@@ -6,11 +6,6 @@ With this project, we aim to deploy a simple copy of the AirBnB website to a ser
 - Christabell Owusu: [Github](https://github.com/Berl-lin)
 
 
-
-
-https://drive.google.com/file/d/19XYkqPdbyMJyupY_Dwrpcq1CyNVl7UxA/view?usp=sharing)
-
-
 ## Resources
 - The Project Concepts: [AirBnB Clone](https://alx-intranet.hbtn.io/concepts/74) and [Python Packages](https://alx-intranet.hbtn.io/concepts/66)
 - [cmd module](https://docs.python.org/3.8/library/cmd.html)
